@@ -1,17 +1,47 @@
+.wrapper{
+width: 90%;
+margin: 0 auto;
+
+}
+
+
+body{
+    background: url(http) ;
+background-attachment: scroll;
+background-image: url(https://cdn.mos.cms.futurecdn.net/MHy4P6q3tVwgDGdw69XwoQ-650-80.jpg);
+
+}
+
+
+.list{
+    color: red;
+    font-size: x-large;
+    font-style: oblique;
+
+}
+
+
+}
 .container{
-    background-color:crimson;
-    text-emphasis-color:black ;
-    text-shadow: rgb(55, 0, 255);
-    padding: 100px;
-    margin:10px;
+    background-color:red;
+    padding: 10px;
+    margin:5px;
+    position: relative;
 
 
 }
 
+
 .container2{
-    background-color: red;
+    background-color:white;
     padding: 200px;
     margin:10px;
+    float: right;;
+    }
+    .container3{
+        inset-inline: 25%;
+
+
     }
 .strong{
         font-size: 800px;
