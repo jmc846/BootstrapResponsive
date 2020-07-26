@@ -44,7 +44,7 @@ color: red;
 
 
 @media screen and (max-width: 768px){
-.Dbike{
+Dbike{
     width: 25%;
     height: 50%;
 }
@@ -75,7 +75,13 @@ width: 75%;
       padding: 20px;
     }
   
+#repo{
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
+
+}
 
 .strong{
         font-size: 800px;
